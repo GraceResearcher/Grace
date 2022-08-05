@@ -1,2 +1,2 @@
 # Grace
-Grace:Graph convolutional network for Root cause Analysis based on Cause Explainability
+Grace:Interpretable Root Cause Analysis by Graph Convolutional Network for Microservices
